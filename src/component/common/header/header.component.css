@@ -1,0 +1,38 @@
+/* .nav_list {
+    list-style-type: none;
+} */
+
+/* .nav_list{
+    list-style-type: none;
+
+} */
+.nav_item a {
+    float: left;
+    margin:0px;
+    padding:5px;
+    color:white;
+    /* list-style-type: none; */
+}
+.nav_item  {
+    float: left;
+    margin: 0px;
+    padding: 5px;
+	color:red;
+
+
+}
+.nav_item :hover {
+    color:brown;
+}
+
+.nav_item :active {
+	font-size: 20px;
+	
+}
+
+.nav_bar{
+    background-color:black;
+    height:40px;
+    position:sticky;
+    top:0px;
+}

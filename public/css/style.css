@@ -1,0 +1,46 @@
+.float-right{
+    float:right;
+}
+.danger{
+    color:red;
+}
+.nav_bar {
+    margin-left: 160px; 
+    background-color: blueviolet;
+    height: 40px;
+    position: sticky;
+    top: 0;
+}
+
+  .main {
+    margin-top:40px;
+    margin-left: 160px; 
+    font-size: 28px; 
+    padding: 0px 10px;
+  }
+  
+  .sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 0px;
+  }
+  .nav_bar{
+    background-color:pink;
+    margin: 20px;
+    padding:sticky;
+    top:0;
+    list-style-type: none;
+ 
+  }
+  .main {
+    margin-top: 40x;
+    margin-left: 160px;
+    font-size: 28px; 
+    padding: 0px 10px;
+  }
